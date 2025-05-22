@@ -8,7 +8,7 @@
   </head>
   <body>
     <h1>Meu Pai Querido</h1>
-    <p>Pai, obrigado por sempre me apoiar, mesmo quando eu quero só dormir o dia todo. Você é meu herói e merece todo meu carinho e admiração. 😴❤️</p>
+    <p>Pai, obrigado por sempre me apoiar, mesmo quando eu quero só dormir o dia todo. Você é meu herói e merece todo meu carinho e admiração. </p>
     <br>
     <p>Assinado: Vitor</p>
   </body>
